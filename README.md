@@ -1,6 +1,6 @@
 # Base Alpine distributions
 
-These containers are built from Alpine base with the proper apk sources (normal or archive). No additional package is installed.
+These containers are built from Alpine base with active apk sources (normal or archive). No additional package is installed.
 
 The Dockerfiles are available in the [fruafr/docker-alpine Github repository](https://github.com/fruafr/docker-alpine)
 
