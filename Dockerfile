@@ -10,4 +10,4 @@ RUN apk update && apk upgrade
 
 VOLUME ["/sys/fs/cgroup"]
 
-CMD ["bash"]
+CMD ["/bin/sh"]
