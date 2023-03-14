@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM alpine:3.13
 
 LABEL maintainer="David HEURTEVENT <david@heurtevent.org>"
 LABEL build_date="2023-03-14"
