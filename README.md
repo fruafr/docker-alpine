@@ -6,7 +6,7 @@ The Dockerfiles are available in the [fruafr/docker-alpine Github repository](ht
 
 The resulting docker containers are available in the [fruafr/alpine Docker Hub](https://hub.docker.com/repository/docker/fruafr/alpine)
 
-[![Alpine build status](https://img.shields.io/docker/cloud/build/fruafr/alpine.svg)](https://hub.docker.com/repository/docker/fruafr/alpine)
+[![alpine build status](https://img.shields.io/docker/cloud/build/fruafr/alpine.svg)](https://hub.docker.com/repository/docker/fruafr/alpine)
 
 ## Versions History 
 
