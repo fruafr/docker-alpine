@@ -4,7 +4,7 @@ These containers are built from Alpine base with active apk sources (normal or a
 
 The Dockerfiles are available in the [fruafr/docker-alpine Github repository](https://github.com/fruafr/docker-alpine)
 
-The resulting docker containers are available in the [frua/alpine Docker Hub](https://hub.docker.com/repository/docker/fruafr/alpine)
+The resulting docker containers are available in the [fruafr/alpine Docker Hub](https://hub.docker.com/repository/docker/fruafr/alpine)
 
 [![Alpine build status](https://img.shields.io/docker/cloud/build/fruafr/alpine.svg)](https://hub.docker.com/repository/docker/fruafr/alpine)
 
