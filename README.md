@@ -21,7 +21,7 @@ The resulting docker containers are available in the [frua/alpine Docker Hub](ht
 
 ### Supported versions
 
-|Year Released |Alpine Version | Docker image tag                    |Note      |Repo Branch    |
+|Year Released |Alpine Version | Docker image tag                    |End ofLife    |Repo Branch    |
 |--------------|---------------|-------------------------------------|----------|---------------|
 |2022          |3.17           |`docker pull fruafr/alpine:3.17`     |2024-11   |3.17           |
 |2022          |3.16           |`docker pull fruafr/alpine:3.16`     |2024-05   |3.16           |
@@ -76,7 +76,7 @@ docker run \
 
 ### Supported versions
 
-|Year Released |Alpine Version | Docker image tag             |Note      |Repo Branch    |
+|Year Released |Alpine Version | Docker image tag             |End of Life      |Repo Branch    |
 |--------------|---------------|------------------------------|----------|---------------|
 |2022          |3.17           |`docker pull alpine:3.17`     |2024-11   |3.17           |
 |2022          |3.16           |`docker pull alpine:3.16`     |2024-05   |3.16           |
