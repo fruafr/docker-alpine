@@ -1,4 +1,4 @@
-# Base Alpine distributions
+# Alpine - Base distributions
 
 These containers are built from Alpine base with active apk sources (normal or archive). No additional package is installed.
 
