@@ -65,16 +65,16 @@ docker run \
 - [Alpine - Docker Hub](https://hub.docker.com/_/alpine)
 - [Alpine - Releases](https://www.alpinelinux.org/releases/)
 
-## Current
+### Current
 
 |Alpine Version      |Docker image tag                  |Current Version |Repo Branch   |
 |--------------------|----------------------------------|----------------|--------------|
 |latest              |`docker pull alpine:latest`       |3.17            |latest        |
 |edge                |`docker pull alpine:edge`         |?               |edge          |
 
-## Versions History
+### Versions History
 
-### Supported versions
+#### Supported versions
 
 |Year Released |Alpine Version | Docker image tag             |End of Life      |Repo Branch    |
 |--------------|---------------|------------------------------|----------|---------------|
@@ -83,7 +83,7 @@ docker run \
 |2021          |3.15           |`docker pull alpine:3.15`     |2023-11   |3.15           |
 |2021          |3.14           |`docker pull alpine:3.14`     |2023-05   |3.14           |
 
-### Obsolete versions 
+#### Obsolete versions 
 
 |Year Released |Alpine Version | Docker image tag             |End of Life |Repo Branch    |
 |--------------|---------------|------------------------------|------------|---------------|
