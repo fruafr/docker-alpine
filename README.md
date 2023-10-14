@@ -6,15 +6,13 @@ The Dockerfiles are available in the [fruafr/docker-alpine Github repository](ht
 
 The resulting docker containers are available in the [fruafr/alpine Docker Hub](https://hub.docker.com/repository/docker/fruafr/alpine)
 
-[![alpine build status](https://img.shields.io/docker/cloud/build/fruafr/alpine.svg)](https://hub.docker.com/repository/docker/fruafr/alpine)
-
 ## Versions History 
 
 ## Current
 
 |Alpine Version      |Docker image tag                         |Current Version |Repo Branch   |
 |--------------------|-----------------------------------------|----------------|--------------|
-|latest              |`docker pull fruafr/alpine:latest`       |3.17            |latest        |
+|latest              |`docker pull fruafr/alpine:latest`       |3.18            |latest        |
 |edge                |`docker pull fruafr/alpine:edge`         |?               |edge          |
 
 ## Versions History
@@ -23,15 +21,16 @@ The resulting docker containers are available in the [fruafr/alpine Docker Hub](
 
 |Year Released |Alpine Version | Docker image tag                    |End ofLife    |Repo Branch    |
 |--------------|---------------|-------------------------------------|----------|---------------|
+|2023          |3.17           |`docker pull fruafr/alpine:3.18`     |2025-05   |3.18           |
 |2022          |3.17           |`docker pull fruafr/alpine:3.17`     |2024-11   |3.17           |
 |2022          |3.16           |`docker pull fruafr/alpine:3.16`     |2024-05   |3.16           |
 |2021          |3.15           |`docker pull fruafr/alpine:3.15`     |2023-11   |3.15           |
-|2021          |3.14           |`docker pull fruafr/alpine:3.14`     |2023-05   |3.14           |
 
 ### Obsolete versions 
 
 |Year Released |Alpine Version | Docker image tag                    |End of Life |Repo Branch    |
 |--------------|---------------|-------------------------------------|------------|---------------|
+|2021          |3.14           |`docker pull fruafr/alpine:3.14`     |2023-05   |3.14           |
 |2021          |3.13           |`docker pull fruafr/alpine:3.13`     |2022-11     |3.13           |
 |2020          |3.12           |`docker pull fruafr/alpine:3.12`     |2022-05     |3.12           |
 |2019          |3.11           |`docker pull fruafr/alpine:3.11`     |2021-11     |3.11           |
@@ -69,7 +68,7 @@ docker run \
 
 |Alpine Version      |Docker image tag                  |Current Version |Repo Branch   |
 |--------------------|----------------------------------|----------------|--------------|
-|latest              |`docker pull alpine:latest`       |3.17            |latest        |
+|latest              |`docker pull alpine:latest`       |3.18            |latest        |
 |edge                |`docker pull alpine:edge`         |?               |edge          |
 
 ### Versions History
@@ -78,15 +77,16 @@ docker run \
 
 |Year Released |Alpine Version | Docker image tag             |End of Life      |Repo Branch    |
 |--------------|---------------|------------------------------|----------|---------------|
+|2023          |3.18           |`docker pull alpine:3.18`     |2025-05   |3.18           |
 |2022          |3.17           |`docker pull alpine:3.17`     |2024-11   |3.17           |
 |2022          |3.16           |`docker pull alpine:3.16`     |2024-05   |3.16           |
 |2021          |3.15           |`docker pull alpine:3.15`     |2023-11   |3.15           |
-|2021          |3.14           |`docker pull alpine:3.14`     |2023-05   |3.14           |
 
 #### Obsolete versions 
 
 |Year Released |Alpine Version | Docker image tag             |End of Life |Repo Branch    |
 |--------------|---------------|------------------------------|------------|---------------|
+|2021          |3.14           |`docker pull alpine:3.14`     |2023-05   |3.14           |
 |2021          |3.13           |`docker pull alpine:3.13`     |2022-11     |3.13           |
 |2020          |3.12           |`docker pull alpine:3.12`     |2022-05     |3.12           |
 |2019          |3.11           |`docker pull alpine:3.11`     |2021-11     |3.11           |
@@ -102,5 +102,5 @@ docker run \
 |2014          |3.1            |`docker pull alpine:3.1`      |2016-11     |3.1            |
 
 ----
-Updated : 2023-03-14
+Updated : 2023-10-14
 
